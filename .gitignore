@@ -1,0 +1,4 @@
+node_modules
+*.flat.sol
+artifacts
+cache
